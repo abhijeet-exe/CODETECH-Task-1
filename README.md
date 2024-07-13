@@ -6,3 +6,6 @@
 
 
 ## Overview of the project
+
+
+### Project: creating a weather forecast app or a recipe organizer using CSS, HTML, and JavaScript.
