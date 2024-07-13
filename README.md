@@ -15,7 +15,7 @@ Create a web application that allows users to get current weather information fo
 
 ### Key Features:
 
-_ **City Input:** A text box where users can enter the name of a city.  
+-**City Input:** A text box where users can enter the name of a city.  
 _ **Search Button:** A button to trigger the weather search.  
 _ **Weather Display:** A section to display weather information such as temperature, humidity, wind speed, and a weather description.  
 _ **API Integration:** Use a weather API (like OpenWeatherMap) to fetch real-time weather data.    
